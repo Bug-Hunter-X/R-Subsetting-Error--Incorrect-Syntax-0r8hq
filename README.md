@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming related to data frame subsetting. The `bug.R` file contains code that uses incorrect syntax for subsetting a data frame based on a condition. This results in an unexpected subset or an empty data frame. The `bugSolution.R` file provides the correct solution with explanations.
